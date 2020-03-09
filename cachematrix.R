@@ -29,5 +29,3 @@ cacheSolve <- function(x, ...) {
   i
 }
 
-
-
